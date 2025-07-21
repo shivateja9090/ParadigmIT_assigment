@@ -1,0 +1,15 @@
+{
+  "name": "alfred-command-center",
+  "version": "1.0.0",
+  "description": "Alfred Command Center - Project Management Dashboard",
+  "scripts": {
+    "docker:build": "docker-compose build",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:logs": "docker-compose logs -f",
+    "dev": "docker-compose up --build"
+  },
+  "keywords": ["dashboard", "project-management", "construction", "solar"],
+  "author": "Full Stack Engineer",
+  "license": "MIT"
+} 
