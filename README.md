@@ -20,7 +20,7 @@ A real-time project management dashboard that keeps teams in sync with live upda
 
 1. Clone this repo:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/shivateja9090/ParadigmIT_assigment.git
    cd paradigmit_assignment
    ```
 
